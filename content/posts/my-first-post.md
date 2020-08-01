@@ -3,5 +3,5 @@ title: "My First Post"
 date: 2020-08-01T19:52:13+05:30
 draft: false
 ---
-Hello, Hugo.
+Hello, Hugo, and Netlify.
 
