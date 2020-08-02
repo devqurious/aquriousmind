@@ -1,7 +1,7 @@
 baseURL = "https://www.aquriousmind.com/"
 languageCode = "en-us"
 title = "AQuriousMind"
-theme = ["reveal-hugo", "ananke"]
+theme = ["reveal-hugo", "hugo-swift-theme"]
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -15,3 +15,9 @@ isHTML = true
 theme = "light"
 slide_number = "true"
 history = "false"
+
+[params.hugo-swift-theme]
+logo = "logo.png"
+
+[params]
+logo = "logo.png"
