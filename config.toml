@@ -1,7 +1,7 @@
 baseURL = "https://www.aquriousmind.com/"
 languageCode = "en-us"
-title = "AQuriousMind"
-theme = ["reveal-hugo", "hugo-swift-theme"]
+title = "AQuriousMind - Understand your Universe"
+theme = ["aether"]
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -21,3 +21,9 @@ logo = "logo.png"
 
 [params]
 logo = "logo.png"
+brand = "AQuriousMind"
+description = "Read and do the experiments that changed the world."
+
+[markup]
+  [markup.highlight]
+    style = "igor"
