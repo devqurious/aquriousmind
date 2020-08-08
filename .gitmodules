@@ -9,4 +9,4 @@
 	url = https://github.com/onweru/hugo-swift-theme.git
 [submodule "themes/aether"]
 	path = themes/aether
-	url = https://github.com/josephhutch/aether.git
+	url = https://github.com/devqurious/aether
