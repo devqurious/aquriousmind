@@ -13,8 +13,6 @@ resources:
     description: "A MacBook showing a website using the aether theme"
 ---
 
-## Story
-
 ![Faraday](/images/faraday/Page_02.jpg)
 ![Faraday](/images/faraday/Page_03.jpg)
 ![Faraday](/images/faraday/Page_04.jpg)
@@ -29,14 +27,4 @@ resources:
 ![Faraday](/images/faraday/Page_13.jpg)
 ![Faraday](/images/faraday/Page_14.jpg)
 ![Faraday](/images/faraday/Page_15.jpg)
-
-
-## Tools
-
-You will need this to do this experiment
-
-## Experiment
-
-Follow the steps below
-
 

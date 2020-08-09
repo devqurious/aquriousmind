@@ -10,3 +10,9 @@
 [submodule "themes/aether"]
 	path = themes/aether
 	url = https://github.com/devqurious/aether
+[submodule "themes/hugo-dynamic-tabs"]
+	path = themes/hugo-dynamic-tabs
+	url = https://github.com/devqurious/hugo-dynamic-tabs
+[submodule "themes/hugo-theme-bootstrap4-blog"]
+	path = themes/hugo-theme-bootstrap4-blog
+	url = https://github.com/devqurious/hugo-theme-bootstrap4-blog
